@@ -1,6 +1,6 @@
 # Arduino - RC Car
 Arduino RC Car with nRF20L01 module, controlled by Syma X5C remote controller.
-I used [Symaxrx Library](https://github.com/Suxsem/symaxrx) to control the car with Syma X5C remote controller.
+I used [Symaxrx Library](https://github.com/Suxsem/symaxrx) to control the car.
 
 ## PCB
 
